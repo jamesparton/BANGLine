@@ -4,7 +4,7 @@ Simple IVR
 This repro demonstrates just how easy it is to get up and running with Twilio voice.
 To create a simple, but feature rich, IVR application.
 
-You can read the Twilio "HowTo" doc on conferencing here: https://www.twilio.com/docs/howto/ivrs-the-basics
+You can read the Twilio "HowTo" doc on IVR's here: https://www.twilio.com/docs/howto/ivrs-the-basics
 
 Preparation
 ===========
