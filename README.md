@@ -1,5 +1,5 @@
-Simple Conference
-=================
+Simple IVR
+==========
 
 This repro demonstrates just how easy it is to get up and running with Twilio voice.
 To create a simple, but feature rich, IVR application.
