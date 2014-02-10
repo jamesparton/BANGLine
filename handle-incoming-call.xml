@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+	<Play>../assets/banglinewelcome.mp3</Play>
+	<Gather action="handle-user-input.php" numDigits="1">
+		<Say voice="alice">Welcome to the Bang Line.</Say>
+		<Say voice="alice">To leave us a message, press 1.</Say>
+		<Say voice="alice">To hear more about Chris, press 2.</Say>
+		<Say voice="alice">To hear more about James, press 3.</Say>
+		<Say voice="alice">To hear more about Alpha Punk, press 4.</Say>
+		<Say voice="alice">Press 5 to indicate Hash Bang TV is the best Pod Cast ever.</Say>
+		<Say voice="alice">To listen to an episode, press 6.</Say>
+		<Say voice="alice">To get our website link and Twitter handles in a handy text message, press 7.</Say>
+	</Gather>
+	<!-- If customer doesn't input anything, prompt and try again. -->
+	<Say voice="alice">Sorry, I didn't get your response.</Say>
+	<Redirect>handle-incoming-call.xml</Redirect>
+</Response>
