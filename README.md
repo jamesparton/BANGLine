@@ -11,7 +11,7 @@ Preparation
 <ul>
 <li>Open an account on http://twilio.com</li>
 <li>Buy a phone number in your country of choice http://www.twilio.com/docs/howto/search-and-buy</li>
-<;i>Install the Twilio PHP Helper Library on your server: https://www.twilio.com/docs/php/install</li>
+<li>Install the Twilio PHP Helper Library on your server: https://www.twilio.com/docs/php/install</li>
 </ul>
 
 Creating the IVR App
